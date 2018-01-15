@@ -8,6 +8,7 @@
         <!--<artifactId>sonatype-parent</artifactId>-->
         <!--<version>0.1</version>-->
     <!--</parent>-->
+    <groupId>com.github.davidmoten</groupId>
     <artifactId>rxjava-jdbc</artifactId>
     <version>0.7.14-SNAPSHOT</version>
 
